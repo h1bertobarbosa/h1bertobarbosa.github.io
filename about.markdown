@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Trabalho apaixonadamente como desenvolvedor de software desde 2009, ao longo desses anos, tive experiencias em Ruby on Rails, PHP, Laravel, C#,React, Vue.js e atualmente tenho trabalhado em TypeScript/Node.js, MongoDB, MySQL, PostgreSQL, Docker, AWS, Digital Ocean, Kafka, RabbitMQ, NestJS, Express, Koa, TDD, Clean Architecture e Clean Code. Meu foco principal está no desenvolvimento de back-end usando Node.js e TypeScript.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Busco fazer software de alta qualidade dentro de cronogramas e orçamentos especificados. Tenho fortes habilidades de resolução de problemas que me auxiliam a superar desafios técnicos.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Gosto de fazer com que o meu trabalho tenha impacto positivo na vida das pessoas.
