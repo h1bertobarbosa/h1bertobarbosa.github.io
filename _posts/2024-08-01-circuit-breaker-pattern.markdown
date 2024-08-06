@@ -107,3 +107,12 @@ Você deve estar pensando, mas porque existe o estado HalfOpen (semi aberto)? Bo
 Então enquanto o circuito estiver close (fechado) está tudo certo, ele envia e recebe o fluxo de requisições e comunicação com um sistema/api remota. Se a API demorar X tempo, que será definido por você (200ms, 1s etc.), se a API remota demorar o tempo definido, o sistema entende que deu timeout sem precisar esperar os 30 segundos. Quando isso acontece, o circuito é aberto e a nossa aplicação para de se comunicar com o recurso remoto e passa a responder sem encavalar requisições.
 
 Esse padrão não deve ser usado para o tratamento de exceções na lógica de negócios de seus aplicativos.
+
+[Código no GIT](https://github.com/h1bertobarbosa/circuit-breaker-pattern)
+[Artigo Original](https://dev.to/h1bertobarbosa/padrao-circuit-breaker-3dm3)
+
+## Links pesquisados:
+https://blog.appsignal.com/2020/07/22/nodejs-resiliency-concepts-the-circuit-breaker.html
+https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
+https://martinfowler.com/bliki/CircuitBreaker.html
+https://medium.com/trainingcenter/design-pattern-para-microservices-circuit-breaker-f4a5b68f73d1
