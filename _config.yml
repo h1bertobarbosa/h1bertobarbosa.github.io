@@ -95,10 +95,10 @@ theme_mode: light # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.png"
+avatar: "/assets/img/avatar/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -121,10 +121,10 @@ comments:
   giscus:
     repo: h1bertobarbosa/h1bertobarbosa.github.io
     repo_id: R_kgDOMnG7KA
-    category: Announcements
-    category_id: DIC_kwDOMnG7KM4Ch4AG
+    category: Show and tell
+    category_id: DIC_kwDOMnG7KM4Ch4AK
     mapping: "title"
-    strict: "1" # optional, default to '0'
+    strict: # optional, default to '0'
     input_position: "top" # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
