@@ -3,8 +3,8 @@ layout: post
 author: Humberto Barbosa
 title:  "O que é Arquitetura de Software?"
 date:   2024-08-01 11:28:14 -0300
-categories: [Software, Blogging, General]
-tags: [software]
+categories: [Design de Software, General]
+tags: [software, clean-arch]
 ---
 
 ## O que é arquitetura de software?
