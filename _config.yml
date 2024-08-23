@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Explorando o Mundo da Engenharia de Software # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Artigos, notas, problemas resolvidos... # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Bem-vindo, aqui compartilho minhas experiências, dicas e tutoriais sobre engenharia de software, desenvolvimento web e programação. Acompanhe minhas jornadas e descubra como resolver problemas complexos, aprender novas tecnologias e melhorar suas habilidades de codificação. Junte-se a mim e vamos crescer juntos como desenvolvedores!
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-RFH9LVQBEX
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -109,7 +109,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname

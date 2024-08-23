@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Humberto Barbosa
+author: humberto_barbosa
 title:  "Clean Code: A Programação Eficiente"
 date:   2024-08-23 08:59:14 -0300
 categories: [Design de Software,General]

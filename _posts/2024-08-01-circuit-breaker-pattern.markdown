@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Humberto Barbosa
+author: humberto_barbosa
 title:  "Padrão - Circuit Breaker"
 date:   2024-08-05 11:28:14 -03
 categories: [Patterns, Blogging, General]

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Humberto Barbosa
+author: humberto_barbosa
 title:  "O que é runtime javascript ?"
 date:   2024-08-21 08:59:14 -0300
 categories: [Javascript, nodejs,General]
