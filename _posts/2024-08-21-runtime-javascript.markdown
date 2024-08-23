@@ -62,7 +62,7 @@ Por exemplo, quando um usuário clica em um botão em uma página web, é adicio
 
 O node.js é uma runtime para executar o javascript no backend a diferença do browser é que em vez de ter a Web Api ele tem a libuv que é onde ocorre a execução de funções assíncronas.
 
-Se você quer visualizar essas coisas acontecendo tem esse site  [http://latentflip.com/loupe](http://latentflip.com/loupe)  onde é possível ver o código passando pelos mecanismos da runtime, ao entrar no site já existe um código de exemplo mas você pode colocar esse abaixo ou inventar algum:
+Se você quer visualizar essas coisas acontecendo tem esse site  [https://latentflip.com/loupe](https://latentflip.com/loupe)  onde é possível ver o código passando pelos mecanismos da runtime, ao entrar no site já existe um código de exemplo mas você pode colocar esse abaixo ou inventar algum:
 
 ```
     console.log("Hi!");

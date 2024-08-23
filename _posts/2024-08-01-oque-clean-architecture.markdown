@@ -37,7 +37,7 @@ Então, por exemplo, o seu ORM vai ficar isolado em uma camada fazendo o papel d
 
 ## Como surgiu a Clean Architecture?
 
-O Bob Martin estava desenvolvendo esse [software](http://docs.fitnesse.org/FrontPage) inclusive com o filho dele, que é um software onde você cria testes baseado numa wiki, onde você coloca os dados de entrada e saída e o programa dele tem uma engine que interpreta os dados e faz o bind com o algoritmo do teste.
+O Bob Martin estava desenvolvendo esse [software](https://docs.fitnesse.org/FrontPage) inclusive com o filho dele, que é um software onde você cria testes baseado numa wiki, onde você coloca os dados de entrada e saída e o programa dele tem uma engine que interpreta os dados e faz o bind com o algoritmo do teste.
 No decorrer do projeto ele percebeu que quando olhava para a estrutura de pasta enxergava só o Rails, e ele não queria ver o Rails, ele queria olhar para a estrutura do projeto e enxergar o objetivo da aplicação (a estrutura não é só de pastas), ou seja, a aplicação seguia os conceitos do Rails. Então foi por isso que ele começou a perceber que estava dependente do framework, do ORM, das libs e começou a desenvolver o projeto isolando as regras de negócio, com testes e as camadas de caso de uso e entidades, deixando as outras coisas como ORM, libs externas para depois. Dessa maneira, ele focou no core do sistema apenas com testes.
 Ele formulou a teoria de que o centro da sua aplicação não é o banco de dados, e não é um ou mais frameworks que você pode estar usando. O centro da sua aplicação é o caso de uso da sua aplicação.
 
@@ -201,5 +201,5 @@ O que define as camadas? As camadas são definidas logicamente, não confunda co
 - [Clean Coder Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Construindo Sistemas com uma Arquitetura Limpa – Engenharia de Software Moderna](https://engsoftmoderna.info/artigos/arquitetura-limpa.html)
 - [10 perguntas sobre Clean Architecture - YouTube](https://www.youtube.com/watch?v=NYoW-ycqbYk)
-- [PROGRAMAÇÃO ORIENTADA A OBJETOS - CONCEITOS BÁSICOS](http://goulart.pro.br/ori_obj.html)
+- [PROGRAMAÇÃO ORIENTADA A OBJETOS - CONCEITOS BÁSICOS](https://goulart.pro.br/ori_obj.html)
 - [clean-architecture dev.to](https://dev.to/h1bertobarbosa/clean-architecture-53lj) - este link e o artigo original que eu escrevi no dev.to
