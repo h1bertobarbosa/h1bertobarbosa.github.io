@@ -6,6 +6,7 @@ date:   2024-08-23 13:25:14 -0300
 categories: [Design de Software,General,Patterns]
 tags: [programming, patterns]
 ---
+
 # Evite o Casamento Forçado: Separando Entidades TypeORM e Interfaces
 
 ## Resumo
