@@ -2,7 +2,7 @@
 layout: post
 author: humberto_barbosa
 title:  "Evite o Casamento Forçado: Separando Entidades TypeORM e Interfaces"
-date:   2024-08-23 13:25:14 -0300
+date:   2024-08-24 13:25:14 -0300
 categories: [Design de Software,General,Patterns]
 tags: [programming, patterns]
 ---
