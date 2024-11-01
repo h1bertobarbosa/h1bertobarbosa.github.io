@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title: "Desvantagens das Chamadas Diretas Entre Use Cases"
 date: 2024-10-31 21:58:14 -0300
-categories: [Design de Software,General,Patterns]
-tags: [programming, patterns]
+categories: [Arquitetura de Software,Design Patterns,Desenvolvimento de Software,Boas Práticas de Programação,Domain-Driven Design (DDD),Manutenibilidade]
+tags: [Use Cases, Acoplamento,Manutenibilidade de Código,Desacoplamento,Arquitetura Limpa,Reuso de Código,Padrões de Arquitetura]
 ---
 
 ### Desvantagens das Chamadas Diretas Entre Use Cases
