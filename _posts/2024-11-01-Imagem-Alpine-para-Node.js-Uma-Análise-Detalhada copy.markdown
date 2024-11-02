@@ -55,8 +55,8 @@ Embora a imagem oficial seja maior, a diferença de tamanho pode ser mitigada ut
 
 **Em resumo**, a imagem oficial do Node.js, ou variantes "slim" de outras distribuições, são as melhores opções para produção, garantindo um ambiente estável, compatível e seguro para a sua aplicação.
 
-## Links
-- https://www.youtube.com/watch?v=mA8wtTUCdgc
-- https://github.com/mhart/alpine-node/blob/master/extract.dockerfile
-- https://github.com/nodejs/node/blob/main/BUILDING.md
-- https://edu.chainguard.dev/chainguard/chainguard-images/working-with-images/images-compiled-programs/glibc-vs-musl
+## Referências
+- [https://www.youtube.com/watch?v=mA8wtTUCdgc](https://www.youtube.com/watch?v=mA8wtTUCdgc)
+- [https://github.com/mhart/alpine-node/blob/master/extract.dockerfile](https://github.com/mhart/alpine-node/blob/master/extract.dockerfile)
+- [https://github.com/nodejs/node/blob/main/BUILDING.md](https://github.com/nodejs/node/blob/main/BUILDING.md)
+- [https://edu.chainguard.dev/chainguard/chainguard-images/working-with-images/images-compiled-programs/glibc-vs-musl](https://edu.chainguard.dev/chainguard/chainguard-images/working-with-images/images-compiled-programs/glibc-vs-musl)

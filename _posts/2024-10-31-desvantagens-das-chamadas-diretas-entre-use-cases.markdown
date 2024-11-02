@@ -49,5 +49,5 @@ Por meio dessas estratégias, é possível desenvolver sistemas de software que 
 
 ### Referências
 
-[https://www.branas.io/blog/um-use-case-pode-chamar-o-outro.html](https://www.branas.io/blog/um-use-case-pode-chamar-o-outro.html)
-[https://www.youtube.com/watch?v=HTp5KM9P2yU](https://www.youtube.com/watch?v=HTp5KM9P2yU)
+- [https://www.branas.io/blog/um-use-case-pode-chamar-o-outro.html](https://www.branas.io/blog/um-use-case-pode-chamar-o-outro.html)
+- [https://www.youtube.com/watch?v=HTp5KM9P2yU](https://www.youtube.com/watch?v=HTp5KM9P2yU)
