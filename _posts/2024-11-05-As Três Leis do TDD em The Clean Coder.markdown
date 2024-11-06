@@ -30,7 +30,7 @@ As três leis do TDD, segundo Robert C. Martin, estabelecem um ciclo de desenvol
 
 Robert C. Martin argumenta que a prática do TDD, seguindo as três leis, proporciona diversos benefícios:
 
-● Certeza: Os testes fornecem um feedback constante sobre o funcionamento do código, garantindo que as funcionalidades estejam sendo implementadas corretamente.2
+● Certeza: Os testes fornecem um feedback constante sobre o funcionamento do código, garantindo que as funcionalidades estejam sendo implementadas corretamente.
 
 ● Coragem: Com uma suíte de testes abrangente, o desenvolvedor se sente mais confiante para refatorar o código e adicionar novas funcionalidades.
 
