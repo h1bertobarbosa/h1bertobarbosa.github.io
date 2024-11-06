@@ -56,7 +56,7 @@ Os programadores podem aumentar seus conhecimentos e habilidades em programaçã
 
 ## Prática:
 
-● Pratique como os músicos: Assim como os músicos praticam escalas e exercícios para aprimorar suas habilidades, os programadores também devem se dedicar à prática regular. O livro sugere a prática de "katas", que são exercícios de programação simples que visam treinar seus dedos e seu cérebro. Sites como [http://katas.softwarecraftsmanship.org](http://katas.softwarecraftsmanship.org/) e [http://codekata.pragprog.com](http://codekata.pragprog.com/) oferecem uma variedade de katas para praticar.
+● Pratique como os músicos: Assim como os músicos praticam escalas e exercícios para aprimorar suas habilidades, os programadores também devem se dedicar à prática regular. O livro sugere a prática de "katas", que são exercícios de programação simples que visam treinar seus dedos e seu cérebro. Sites como [https://katas.softwarecraftsmanship.org](https://katas.softwarecraftsmanship.org/) e [https://codekata.pragprog.com](https://codekata.pragprog.com/) oferecem uma variedade de katas para praticar.
 
 ● Participe de Coding Dojos: Coding Dojos são encontros onde programadores se reúnem para praticar juntos, como em um dojo de artes marciais. Nesses encontros, os programadores podem praticar katas, resolver problemas em pares (como no jogo de "ping-pong" descrito no livro) ou participar de "randori", onde o código é escrito em grupo de forma colaborativa.
 
