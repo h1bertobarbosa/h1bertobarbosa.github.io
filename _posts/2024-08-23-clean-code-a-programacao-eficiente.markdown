@@ -103,4 +103,4 @@ Adotar os princípios do Clean Code não é apenas uma prática recomendada, mas
 -   [Clean Code - O que é?](https://balta.io/blog/clean-code)
 -   [Importância do Clean Code](https://www.hostgator.com.br/blog/clean-code-o-que-e/)
 -   [Princípios do Clean Code](https://www.sydle.com/br/blog/clean-code%20-602bef23da4d09680935509b/)
--   -   [Artigo original](https://dev.to/h1bertobarbosa/clean-code-para-que-serve-4gk)
+-   [Artigo original](https://dev.to/h1bertobarbosa/clean-code-para-que-serve-4gk)
