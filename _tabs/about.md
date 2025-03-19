@@ -18,5 +18,5 @@ Com mais de 15 anos de experiência no desenvolvimento de software, sou especial
 
 📩 Conecte-se comigo para trocar insights sobre engenharia de software e inovação tecnológica.
 
-🔗 [linkedin.com](linkedin.com/in/humberto-barbosa-b9b1a332)
+🔗 [linkedin.com](https://www.linkedin.com/in/humberto-barbosa-b9b1a332/)
 🔗 [threads.net](https://www.threads.net/@humberto.obarbosa)
