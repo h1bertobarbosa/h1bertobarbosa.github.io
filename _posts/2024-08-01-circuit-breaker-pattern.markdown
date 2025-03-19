@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title:  "Padrão - Circuit Breaker"
 date:   2024-08-05 11:28:14 -03
-categories: [Patterns, Blogging, General]
-tags: [patterns]
+categories: ["Desenvolvimento de Software", "Arquitetura de Software", "Padrões de Design"]
+tags: ["Circuit Breaker", "Resiliência", "Tolerância a Falhas", "Padrão de Arquitetura", "Node.js", "Microservices", "Design Patterns", "Opossum", "Event-Driven"]
 ---
 
 ## O que é Circuit Breaker?

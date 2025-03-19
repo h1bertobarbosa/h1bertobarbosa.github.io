@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title: "Como Desacoplar um Serviço Externo do Seu Código (Sem Sofrer no Futuro)"
 date: 2025-03-14 20:52:08 -0300
-categories: [desenvolvimento de software, metodologias ágeis, engenharia de software, práticas de TI, gestão de projetos]
-tags: [rogramação extrema, desenvolvimento ágil, metodologia XP, práticas de programação, software colaborativo]
+categories: ["Desenvolvimento de Software", "Arquitetura de Software", "Boas Práticas"]
+tags: ["Desacoplamento", "Arquitetura Hexagonal", "Ports and Adapters", "SOLID", "DIP", "Domain-Driven Design", "Anti-Corruption Layer", "Event-Driven", "Resiliência", "Microservices"]
 ---
 
 Manter um sistema desacoplado de serviços externos não é frescura, **é necessidade**. Se você quer um código mais flexível, testável e resiliente, precisa seguir algumas boas práticas. Vamos direto ao ponto:

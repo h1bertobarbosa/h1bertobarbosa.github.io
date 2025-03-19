@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title: "O que acontece quando não tem testes?"
 date: 2025-03-17 21:19:08 -0300
-categories: [desenvolvimento de software, metodologias ágeis, engenharia de software, práticas de TI, gestão de projetos]
-tags: [testes, desenvolvimento ágil, metodologia XP, práticas de programação, software colaborativo]
+categories: ["Desenvolvimento de Software", "Boas Práticas", "Testes de Software"]
+tags: ["Testes Automatizados", "TDD", "Refatoração", "Boas Práticas", "Desenvolvimento Ágil", "Qualidade de Código", "Debugging", "Fluxo de Desenvolvimento"]
 ---
 
 Quem nunca ficou na dúvida se o código vai rodar depois de uma mudança? E ai, como vocês lidam com isso?

@@ -1,13 +1,11 @@
 ---
 layout: post
 author: humberto_barbosa
-title:  "Clean Code: A Programação Eficiente"
+title:  "Clean Code: o jeito de não se xingar no futuro"
 date:   2024-08-23 08:59:14 -0300
-categories: [Design de Software,General]
-tags: [programming, cleancode]
+categories: ["Desenvolvimento de Software", "Boas Práticas", "Engenharia de Software"]
+tags: ["Clean Code", "Código Limpo", "Desenvolvimento Ágil", "Boas Práticas", "Código Manutenível", "Robert C. Martin", "Refatoração", "Testes de Software"]
 ---
-
-# Clean Code: A Programação Eficiente
 
 ## Introdução
 

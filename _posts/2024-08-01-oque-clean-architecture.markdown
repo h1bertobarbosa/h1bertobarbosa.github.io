@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title:  "O que é Arquitetura de Software?"
 date:   2024-08-01 11:28:14 -0300
-categories: [Design de Software, General]
-tags: [software, clean-arch]
+categories: ["Desenvolvimento de Software", "Arquitetura de Software", "Boas Práticas"]
+tags: ["Clean Architecture", "Software Design", "Arquitetura de Software", "Robert C. Martin", "Martin Fowler", "Padrões de Arquitetura", "Casos de Uso", "Design de Software"]
 ---
 
 ## O que é arquitetura de software?

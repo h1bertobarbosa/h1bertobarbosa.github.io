@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title: "Como Testes Mudaram Minha Forma de Trabalhar"
 date: 2025-03-17 21:25:08 -0300
-categories: [desenvolvimento de software, metodologias ágeis, engenharia de software, práticas de TI, gestão de projetos]
-tags: [testes, desenvolvimento ágil, metodologia XP, práticas de programação, software colaborativo]
+categories: ["Desenvolvimento de Software", "Boas Práticas", "Testes de Software"]
+tags: ["Testes Automatizados", "TDD", "Refatoração", "Boas Práticas", "Ciclo de Feedback", "Desenvolvimento Ágil", "Qualidade de Código", "Debugging"]
 ---
 
 Antes, eu confiava no feeling. Escrevia código, rodava manualmente, dava aquela conferida na tela e, se parecia ok, bora pro deploy. Mas depois que comecei a testar do jeito certo, tudo mudou…

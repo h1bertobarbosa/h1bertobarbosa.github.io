@@ -1,10 +1,10 @@
 ---
 layout: post
 author: humberto_barbosa
-title:  "Evite o Casamento Forçado: Separando Entidades TypeORM e Interfaces"
+title:  "Evite o Casamento Forçado: Separando Entidades TypeORM de Interfaces"
 date:   2024-08-24 13:25:14 -0300
-categories: [Design de Software,General,Patterns]
-tags: [programming, patterns]
+categories: ["Desenvolvimento de Software", "Arquitetura de Software", "Boas Práticas"]
+tags: ["TypeORM", "Padrão Repository", "Desacoplamento", "DDD", "Clean Architecture", "Hexagonal Architecture", "Interfaces", "Persistência de Dados", "DAO"]
 ---
 
 # Evite o Casamento Forçado: Separando Entidades TypeORM e Interfaces

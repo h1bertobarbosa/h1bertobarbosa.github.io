@@ -3,8 +3,8 @@ layout: post
 author: humberto_barbosa
 title: "State Pattern na prática - pare de sofrer com lógicas de estado bagunçadas"
 date: 2025-03-18 18:32:08 -0300
-categories: [desenvolvimento de software, padrões de design, boas práticas, TypeScript]
-tags: [state pattern, design patterns, TypeScript, boas práticas, código limpo]
+categories: ["Desenvolvimento de Software", "Padrões de Design", "Boas Práticas"]
+tags: ["State Pattern", "Design Patterns", "POO", "Refatoração", "Boas Práticas", "Encapsulamento", "SOLID", "Código Limpo", "Escalabilidade"]
 ---
 
 Descobrir o **State Pattern** foi um ponto de virada. Esse padrão não é o mais falado, mas resolve um problema real: código inchado por condicionais monstruosas.

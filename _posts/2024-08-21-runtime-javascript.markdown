@@ -3,12 +3,9 @@ layout: post
 author: humberto_barbosa
 title:  "O que é runtime javascript ?"
 date:   2024-08-21 08:59:14 -0300
-categories: [Javascript, nodejs,General]
-tags: [javascript]
+categories: ["Desenvolvimento de Software", "JavaScript", "Programação Assíncrona"]
+tags: ["JavaScript Runtime", "Event Loop", "Web API", "Call Stack", "Memory Heap", "Node.js", "JavaScript Engine", "LibUV", "Async Programming"]
 ---
-
-# O que é runtime javascript ?
-
 
 ## O que é o ambiente de execução(runtime environment) ?
 
