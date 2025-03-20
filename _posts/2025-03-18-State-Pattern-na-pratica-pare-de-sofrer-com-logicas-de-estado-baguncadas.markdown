@@ -12,16 +12,50 @@ Descobrir o **State Pattern** foi um ponto de virada. Esse padrão não é o mai
 Sabe aquelas máquinas de estado cheias de `if` e `switch`? O código cresce, novos estados surgem e, de repente, qualquer alteração vira uma dor de cabeça. Já viu algo assim?
 
 ```typescript
-switch (status)
-	"active":
-		console.log('ja esta ativo...')
-		break
-	"blocked":
-		console.log('user bloqueado com sucesso')
-		break
-	"canceled":
-		console.log('user cancelado com sucesso')
-		break
+class User {
+    constructor(name) {
+        this.name = name;
+        this.status = "pending";
+    }
+
+    changeStatus(newStatus) {
+        switch (newStatus) {
+            case "active":
+                if (this.status === "active") {
+                    console.log("Já está ativo...");
+                } else {
+                    this.status = "active";
+                    console.log("Usuário ativado com sucesso.");
+                }
+                break;
+
+            case "blocked":
+                if (this.status === "blocked") {
+                    console.log("Usuário já está bloqueado.");
+                } else {
+                    this.status = "blocked";
+                    console.log("Usuário bloqueado com sucesso.");
+                }
+                break;
+
+            case "canceled":
+                if (this.status === "canceled") {
+                    console.log("Usuário já está cancelado.");
+                } else {
+                    this.status = "canceled";
+                    console.log("Usuário cancelado com sucesso.");
+                }
+                break;
+
+            default:
+                console.log("Status inválido.");
+        }
+    }
+
+    getStatus() {
+        console.log(`Status atual: ${this.status}`);
+    }
+}
 ```
 
 No começo, parece tranquilo. Mas conforme o sistema evolui, o inferno começa: um mar de condicionais espalhadas pelo código. Manutenção? Um pesadelo.
