@@ -9,7 +9,7 @@ tags: [NodeJS, Mongoose, OpenTelemetry, MongoDB, Microservices, Observability, D
 
 **O erro inesperado**
 
-Num ecossistema moderno de microsserviços, estabilidade é lei. Nossa stack — fundamentada em Node.js, NestJS e Mongoose — nos passava segurança. Para manter tudo sob vigilância, contávamos com o OpenTelemetry, ferramenta poderosa para rastrear o comportamento da aplicação. Tudo parecia sob controle até que um erro traiçoeiro começou a pipocar justamente num de nossos conectores mais críticos: `MongoRuntimeError: Unexpected null cursor id`.
+Num ecossistema moderno de microsserviços, observabiliade é lei. Nossa stack — fundamentada em Node.js, NestJS e Mongoose — nos passava segurança. Para manter tudo sob vigilância, contávamos com o OpenTelemetry, ferramenta poderosa para rastrear o comportamento da aplicação. Tudo parecia sob controle até que um erro traiçoeiro começou a pipocar justamente num de nossos apps mais críticos: `MongoRuntimeError: Unexpected null cursor id`.
 
 Neste relato, dividimos os bastidores da investigação que nos levou de suspeitas sobre o MongoDB até uma descoberta surpreendente na camada de instrumentação da nossa própria aplicação.
 
