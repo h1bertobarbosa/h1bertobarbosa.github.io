@@ -3,8 +3,27 @@ layout: post
 author: humberto_barbosa
 title: "Como um cache simples reduziu nosso tempo de cotacao em 80%"
 date: 2026-01-13 08:50:00 -0300
-categories: [Desenvolvimento Backend, JavaScript Avançado, Node.js, Programação Assíncrona, Performance de Código]
-tags: [Node.js, JavaScript, Promises, Async Await, Código Assíncrono, Promise.all, Promise.race, Execução Paralela, Execução Sequencial, Concorrência, Programação Assíncrona, Desenvolvimento Web, Backend, Boas Práticas]
+categories: [ Desenvolvimento Backend,
+  Arquitetura de Software,
+  Node.js,
+  Performance de Código,
+  System Design]
+tags: [Node.js,
+  TypeScript,
+  Cache,
+  Cache-Aside,
+  Performance,
+  Latência,
+  Otimização de Código,
+  Integrações Externas,
+  APIs de Terceiros,
+  MongoDB,
+  TTL,
+  Hashing,
+  SHA-512,
+  Backend,
+  Boas Práticas,
+  Sistemas em Produção]
 ---
 
 Esses dias eu estava lembrando de um problema interessante que enfrentei em um serviço de cotação de frete.
